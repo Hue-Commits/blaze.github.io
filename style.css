@@ -1,0 +1,56 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+.about {
+    margin-bottom: 20px;
+}
+
+.about h2 {
+    font-size: 1.5em;
+}
+
+/* Emoji Styles */
+.wave {
+    font-size: 1.2em;
+}
+
+.logo, .planet {
+    font-size: 1.2em;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
